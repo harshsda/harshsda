@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on building my data analytics portfolio and personal projects*<br> I’m currently learning SQL, Power BI, and Advanced Excel<br>I’m looking to collaborate on open-source data projects or data visualization challenges<br>Ask me about data cleaning, dashboard design, or storytelling with data<br><br>
+ I’m currently working on building my data analytics portfolio and personal projects<br> I’m currently learning SQL, Power BI, and Advanced Excel<br>I’m looking to collaborate on open-source data projects or data visualization challenges<br>Ask me about data cleaning, dashboard design, or storytelling with data<br><br>
 
 
 ## 🌐 Socials:
